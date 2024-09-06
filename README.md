@@ -11,7 +11,7 @@ The dataset, sourced from Kaggle consists of listings of all the movies and tv s
 - Enhance User Interaction
 - Design Intuitive Reports
 
-### Dashboard Components 📈
+### Preview Dashboards 👀
 - Overview Dashboard: Provides a high-level summary of Netflix movies and TV shows.
   
 ![Netflix_Dashboard1](https://github.com/user-attachments/assets/198e30e5-3802-4b31-bb5e-0dc035b91bd1)
@@ -25,5 +25,5 @@ Model View showcasing the data structure and relationships between tables used i
 
 ![Modelview](https://github.com/user-attachments/assets/b6cb513f-6400-4309-9663-5c51f8b6e2a6)
 
-### Dashboard Interaction Demo 👀
+### Dashboard Interaction Demo 📹
 Watch the demo video to see how the interactive features of the Power BI dashboard work (available in the repository).
