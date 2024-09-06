@@ -25,5 +25,4 @@ Model View showcasing the data structure and relationships between tables used i
 
 ![Modelview](https://github.com/user-attachments/assets/b6cb513f-6400-4309-9663-5c51f8b6e2a6)
 
-### Dashboard Interaction Demo 📹
-Watch the demo video to see how the interactive features of the Power BI dashboard work (available in the repository).
+
