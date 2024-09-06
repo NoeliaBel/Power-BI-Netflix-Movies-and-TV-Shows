@@ -24,3 +24,6 @@ The dataset, sourced from Kaggle consists of listings of all the movies and tv s
 Model View showcasing the data structure and relationships between tables used in the Power BI dashboards for Netflix movies and TV shows. This view illustrates the organization and integration of data to enable comprehensive analysis and insights.
 
 ![Modelview](https://github.com/user-attachments/assets/b6cb513f-6400-4309-9663-5c51f8b6e2a6)
+
+## Dashboard Interaction Demo
+Watch the demo video to see how the interactive features of the Power BI dashboard work (available in the repository).
